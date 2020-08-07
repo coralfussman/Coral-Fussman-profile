@@ -10,7 +10,7 @@ import Projects from './Components/Projects'
 import Contact from './Components/Contact'
 
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 
 
 

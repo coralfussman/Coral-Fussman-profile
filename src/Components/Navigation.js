@@ -26,11 +26,15 @@ function Navigation() {
        history.push(`/${page}`)
     }
 
+    const handleClick = () => {
+      set(state => !state) 
+      history.push('/')
+    }
 
     return (
         <div className="trails-main"  >
         <div>
-        <Name onClick={() => set(state => !state)}>CORAL</Name>
+        <Name onClick={handleClick}>CORAL</Name>
           {trail.map(({ x, height, ...rest }, index) => (
             <animated.div
               key={items[index]}
