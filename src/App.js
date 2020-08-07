@@ -1,28 +1,59 @@
 import React, { useState, useEffect } from 'react';
+import {Switch, Route} from 'react-router-dom'
+import {withRouter} from 'react-router-dom'
 
+
+import Home from './Components/Home'
+import Navigation from './Components/Navigation'
+import About from './Components/About'
+import Projects from './Components/Projects'
+import Contact from './Components/Contact'
 
 import logo from './logo.svg';
 import './App.css';
 
+
+
 function App() {
+
+
+  const renderProjects = (routerProps) => {
+    return <Projects />
+  }
+
+  const renderAbout = (routerProps) => {
+    return <About />
+  }
+
+  const renderContact = (routerProps) => {
+    return <Contact />
+  }
+  
+
   return (
     <div className="App">
-      <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <p>
-          First commit to this project
-        </p>
-        <a
-          className="App-link"
-          href="https://github.com/coralfussman"
-          
-        >
-          Github
-        </a>
+      <style>@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;350;400;500&display=swap');</style>
 
-      </header>
+      <div className="navigation">
+      
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        <Navigation/>
+      </div>
+      <div className="main">
+        <Switch>
+                <Route path="/" exact component={Home}/>
+                <Route path="/projects" render={renderProjects}/>
+                <Route path="/about" render={renderAbout} />
+                <Route path="/contact" render={renderContact} />
+              </Switch>
+
+      </div>
     </div>
   );
 }
 
-export default App;
+let RouterComponent = withRouter(App)
+export default RouterComponent
+
+
+// export default App;
