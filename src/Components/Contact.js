@@ -17,18 +17,18 @@ function Contact() {
     const [submitted, setSubmitted] = useState(false)
    
        
-    function sendEmail(e) {
-        e.preventDefault();
+    // function sendEmail(e) {
+    //     e.preventDefault();
     
-        emailjs.sendForm('gmail', 'my_email_service', e.target, 'user_xx0QNILgi7vUGs2yjhc5C')
-          .then((result) => {
-              console.log(result.text);
-          }, (error) => {
-              console.log(error.text);
-          });
+    //     emailjs.sendForm('gmail', 'my_email_service', e.target, 'user_xx0QNILgi7vUGs2yjhc5C')
+    //       .then((result) => {
+    //           console.log(result.text);
+    //       }, (error) => {
+    //           console.log(error.text);
+    //       });
 
          
-      }
+    //   }
 
       
       const toggle = () => {
@@ -38,17 +38,17 @@ function Contact() {
       if(submitted === (false)){
         return (
             <div>
-                <form onSubmit={sendEmail}>
+                <form action="http://formspree.io/coralfussman@gmail.com">
                 <ContactMe> Like what you see? <br/> Contact Me </ContactMe>
 
                     <Label htmlFor="label">Name:</Label>
-                    <Input type="text" id="label" name="user_name" />
+                    <Input type="text" id="label" name="name" />
                     
                     <Label htmlFor="label">Email:</Label>
-                    <Input type="email" id="label" name="user_email" />
+                    <Input type="email" id="label" name="_replyto" />
 
                     <Label htmlFor="label">Message:</Label>
-                    <InputMessage type="text" id="label" name="message" />
+                    <InputMessage type="text" id="label" name="body" />
 
                     <InputSubmit id="label" type="submit" value="Send" onClick={toggle}/>
                     <EmailAdd> ↪  or email me at coralfussman@gmail.com, looking forward to the possibilities  ↩ </EmailAdd>
