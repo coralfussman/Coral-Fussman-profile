@@ -18,8 +18,8 @@ const About = () => {
                      <p>In my past life, I  Studied <b>design</b> in New York for seven years, at the top ranked, and most competitive design school in the states, FIT. <br/>
                      Having set my sites on sportswear and hi-tech fashion, I moved to Milan to tap into Europe's broader hi-tech fashion market, learning the craft
                      <br/>at Politecnico di Milano. My mission was simple, the sciences and the arts should exist in elegant, effortless harmony. <b>Fashion</b> 
-                      <br/>and <b>technology</b> can live in <b>symbiosis</b>, for the purpose of <b>utility</b> and <b>aesthetics</b>. I came back to the states
-                      <br/> with a hunger to innovate. Starting with my first job out of school creating space suits at Final Frontier Design. 
+                      <br/>and <b>technology</b> can live in <b>symbiosis</b>, for the purpose of <b>utility</b> and <b>aesthetics</b>. I came back to the states with
+                      <br/> a hunger to innovate. Starting with my first job out of school creating space suits at Final Frontier Design. 
                       <br/> Since then, I have developed an insatiable desire to <b>improve performance</b> across a range of fields not 
                       <br/>limited to fashion. All stemming from the same underlying need to continue moving <b>forward</b>.
                   </p>
