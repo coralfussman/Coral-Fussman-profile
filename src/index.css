@@ -41,6 +41,7 @@ body {
   }
 
 
+
 /* ---------Navigation---------- */
 
 .trails-main {
@@ -76,4 +77,18 @@ body {
 
 width: 75px;
 margin: 10px;
+}
+
+form {
+  height: 100%;
+  width:100%;
+  border: .1ch;
+  border-color: rgb(119, 219, 209);
+  color: rgb(119, 219, 209);
+  box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.404);
+  margin: 10px;
+}
+b {
+  color: rgb(119, 219, 209);
+  font-size: 17px;
 }
