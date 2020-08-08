@@ -77,11 +77,11 @@ const projects = [
                 <br/>
                 <p>{project.caption} </p>
                 <br/>
-                <a className="App-link" href={project.youTube}>
+                <a  href={project.youTube} target="_blank">
                 _Demo_
                 </a> 
                 |
-                <a className="App-link" href={project.github}>
+                <a  href={project.github} target="_blank">
                 _Github_
                 </a>
               </div>
