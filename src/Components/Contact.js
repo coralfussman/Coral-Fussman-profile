@@ -16,6 +16,26 @@ function Contact() {
 
     const [submitted, setSubmitted] = useState(false)
    
+
+
+    function submitForm(ev) {
+        ev.preventDefault();
+        const form = ev.target;
+        const data = new FormData(form);
+        const xhr = new XMLHttpRequest();
+        xhr.open(form.method, form.action);
+        xhr.setRequestHeader("Accept", "application/json");
+        xhr.onreadystatechange = () => {
+          if (xhr.readyState !== XMLHttpRequest.DONE) return;
+          if (xhr.status === 200) {
+            form.reset();
+            this.setState({ status: "SUCCESS" });
+          } else {
+            this.setState({ status: "ERROR" });
+          }
+        };
+        xhr.send(data);
+      }
        
     // function sendEmail(e) {
     //     e.preventDefault();
@@ -38,7 +58,7 @@ function Contact() {
       if(submitted === (false)){
         return (
             <div>
-                <form action="https://formspree.io/xaypkyyq" method="POST">
+                <form action="https://formspree.io/xaypkyyq" method="POST"  onSubmit={submitForm}>
                 <ContactMe> Like what you see? <br/> Contact Me </ContactMe>
 
                     <Label htmlFor="label">Name:</Label>
