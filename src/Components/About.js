@@ -9,12 +9,11 @@ const About = () => {
    
             <div className="mainAbout">
                
-                <hr/>
                 <h2>The Gist</h2>
                <img className="profilePic" src="https://i.imgur.com/kzA7g2u.png" title="source: imgur.com" height="170px" />
 
                <h2>GOOD DESIGN ∅ INNOVATION ∅ EFFECTIVENESS</h2>
-                    <hr/>
+        
                 <h3> ∅ History ∅ </h3>
                      <p>In my past life, I  Studied <b>design</b> in New York for seven years, at the top ranked, and most competitive design school in the states, FIT. <br/>
                      Having set my sites on sportswear and hi-tech fashion, I moved to Milan to tap into Europe's broader hi-tech fashion market, learning the craft
