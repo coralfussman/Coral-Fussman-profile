@@ -18,7 +18,7 @@ function Contact() {
    
 
 
-    function submitForm(ev) {
+    const submitForm = (ev) => {
         ev.preventDefault();
         const form = ev.target;
         const data = new FormData(form);
