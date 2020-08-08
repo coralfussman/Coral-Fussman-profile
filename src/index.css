@@ -51,11 +51,13 @@ body {
   text-align: center;
   color: black;
   padding: 40px;
+  font-size: 14px;
 }
 .mainProjects p{
   padding: 30px;
 }
 .mainProjects img{
+  padding: 30px;
   height: 250px;
 }
 
