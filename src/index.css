@@ -55,6 +55,7 @@ body {
 }
 .mainProjects p{
   padding: 30px;
+  padding-bottom: 0px;
   font-size: 11px;
 }
 .mainProjects img{
