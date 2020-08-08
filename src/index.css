@@ -20,7 +20,7 @@ body {
   flex-wrap: wrap;
 }
 .navigation {
-  height: 100vh;
+  height: 96vh;
   width: 30vw;
 
   display: flex;
