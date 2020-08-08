@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fc9a94953c14db245e3cf88f35d0771",
+    "revision": "04c2793ebe48676a3e4213cb7cfad67b",
     "url": "/Coral-Fussman-profile/index.html"
   },
   {
-    "revision": "98dd9200dd1259f6c480",
-    "url": "/Coral-Fussman-profile/static/css/main.2e6d96d4.chunk.css"
+    "revision": "c8ac7a9f8c8910395269",
+    "url": "/Coral-Fussman-profile/static/css/main.01b09a68.chunk.css"
   },
   {
     "revision": "9956badd16ea1c016e25",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Coral-Fussman-profile/static/js/2.9ac75890.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98dd9200dd1259f6c480",
-    "url": "/Coral-Fussman-profile/static/js/main.26eb6c1d.chunk.js"
+    "revision": "c8ac7a9f8c8910395269",
+    "url": "/Coral-Fussman-profile/static/js/main.97daa6cc.chunk.js"
   },
   {
     "revision": "104ea37ba1869d1799a5",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Coral-Fussman-profile/static/media/Medium.6d34e740.svg"
   },
   {
-    "revision": "c542af9c1631ca964f911856f825e5b2",
-    "url": "/Coral-Fussman-profile/static/media/Ripple.c542af9c.svg"
+    "revision": "45448764ad743e9f1cec002b9c5be9de",
+    "url": "/Coral-Fussman-profile/static/media/Ripple.45448764.svg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
