@@ -119,6 +119,7 @@ form {
   color: rgb(119, 219, 209);
   box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.404);
   margin: 10px;
+  margin-bottom: 5px;
 }
 b {
   color: rgb(119, 219, 209);
