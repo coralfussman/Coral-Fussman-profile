@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Coral-Fussman-profile/static/css/main.01b09a68.chunk.css",
-    "main.js": "/Coral-Fussman-profile/static/js/main.0df1e42b.chunk.js",
-    "main.js.map": "/Coral-Fussman-profile/static/js/main.0df1e42b.chunk.js.map",
+    "main.css": "/Coral-Fussman-profile/static/css/main.98e7d83e.chunk.css",
+    "main.js": "/Coral-Fussman-profile/static/js/main.3fc4285a.chunk.js",
+    "main.js.map": "/Coral-Fussman-profile/static/js/main.3fc4285a.chunk.js.map",
     "runtime-main.js": "/Coral-Fussman-profile/static/js/runtime-main.594ee0d5.js",
     "runtime-main.js.map": "/Coral-Fussman-profile/static/js/runtime-main.594ee0d5.js.map",
-    "static/js/2.1b39cea1.chunk.js": "/Coral-Fussman-profile/static/js/2.1b39cea1.chunk.js",
-    "static/js/2.1b39cea1.chunk.js.map": "/Coral-Fussman-profile/static/js/2.1b39cea1.chunk.js.map",
+    "static/js/2.e1825604.chunk.js": "/Coral-Fussman-profile/static/js/2.e1825604.chunk.js",
+    "static/js/2.e1825604.chunk.js.map": "/Coral-Fussman-profile/static/js/2.e1825604.chunk.js.map",
     "index.html": "/Coral-Fussman-profile/index.html",
-    "precache-manifest.accec6b11b93712082cde3b21fccf968.js": "/Coral-Fussman-profile/precache-manifest.accec6b11b93712082cde3b21fccf968.js",
+    "precache-manifest.20e4f417ca4ce650a56d2ddf18e65009.js": "/Coral-Fussman-profile/precache-manifest.20e4f417ca4ce650a56d2ddf18e65009.js",
     "service-worker.js": "/Coral-Fussman-profile/service-worker.js",
-    "static/css/main.01b09a68.chunk.css.map": "/Coral-Fussman-profile/static/css/main.01b09a68.chunk.css.map",
-    "static/js/2.1b39cea1.chunk.js.LICENSE.txt": "/Coral-Fussman-profile/static/js/2.1b39cea1.chunk.js.LICENSE.txt",
+    "static/css/main.98e7d83e.chunk.css.map": "/Coral-Fussman-profile/static/css/main.98e7d83e.chunk.css.map",
+    "static/js/2.e1825604.chunk.js.LICENSE.txt": "/Coral-Fussman-profile/static/js/2.e1825604.chunk.js.LICENSE.txt",
     "static/media/Github.svg": "/Coral-Fussman-profile/static/media/Github.129e2f1f.svg",
     "static/media/Linkedin.svg": "/Coral-Fussman-profile/static/media/Linkedin.3357b800.svg",
     "static/media/Medium.svg": "/Coral-Fussman-profile/static/media/Medium.6d34e740.svg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.594ee0d5.js",
-    "static/js/2.1b39cea1.chunk.js",
-    "static/css/main.01b09a68.chunk.css",
-    "static/js/main.0df1e42b.chunk.js"
+    "static/js/2.e1825604.chunk.js",
+    "static/css/main.98e7d83e.chunk.css",
+    "static/js/main.3fc4285a.chunk.js"
   ]
 }
