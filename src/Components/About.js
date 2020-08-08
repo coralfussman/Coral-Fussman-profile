@@ -16,14 +16,14 @@ const About = () => {
                <h2>GOOD DESIGN ∅ INNOVATION ∅ EFFECTIVENESS</h2>
                     <hr/>
                 <h3> ∅ History ∅ </h3>
-                     In my past life, I <p> Studied <b>design</b> in New York for seven years, at the top ranked, and most competitive design school in the states, FIT. <br/>
+                     <p>In my past life, I  Studied <b>design</b> in New York for seven years, at the top ranked, and most competitive design school in the states, FIT. <br/>
                      Having set my sites on sportswear and hi-tech fashion, I moved to Milan to tap into Europe's broader hi-tech fashion market, learning the craft
-                      at Politecnico di Milano. My mission was simple, the sciences and the arts should exist in elegant, effortless harmony. <b>Fashion</b> 
+                     <br/>at Politecnico di Milano. My mission was simple, the sciences and the arts should exist in elegant, effortless harmony. <b>Fashion</b> 
                       <br/>and <b>technology</b> can live in <b>symbiosis</b>, for the purpose of <b>utility</b> and <b>aesthetics</b>. I came back to the
                       <br/> states with a hunger to innovate. Starting with my first job out of school creating space suits at Final Frontier Design. 
                       Since then, I have developed an insatiable desire to <b>improve performance</b> across a range of fields not limited
                       <br/> to fashion. All stemming from the same underlying need to continue moving <b>forward</b>.
-                    <br/>  </p>
+                  </p>
                 <h3> ∅ Currently ∅ </h3>
                     <p> Having been cursed and blessed with the inability to 'chill',  <br/>
                         I'm always on to the next <b>adventure</b>. My free time is occupied with  <br/>

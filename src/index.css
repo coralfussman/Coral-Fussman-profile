@@ -53,9 +53,9 @@ body {
   
     }
     .mainAbout p{
-      padding: 16px;
+      padding: 30px;
       padding-bottom: 0px;
-      font-size: 11px;
+      font-size: 14px;
     }
 
   
@@ -141,7 +141,7 @@ form {
 }
 b {
   color: rgb(119, 219, 209);
-  font-size: 17px;
+  font-size: 16px;
 }
 
 .homePg{

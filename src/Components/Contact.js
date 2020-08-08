@@ -50,7 +50,7 @@ function Contact() {
                     <InputMessage type="text" id="label" name="message" />
 
                     <InputSubmit id="label" type="submit" value="Send" onClick={toggle}/>
-                    <EmailAdd> ↪   or email me at coralfussman@gmail.com, look forward to the possibilities   ↩ </EmailAdd>
+                    <EmailAdd> ↪  or email me at coralfussman@gmail.com, looking forward to the possibilities  ↩ </EmailAdd>
                 </form>
                 <Row>
 
