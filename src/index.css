@@ -55,16 +55,16 @@ body {
 }
 .mainProjects p{
   padding: 30px;
-  font-size: 10px;
+  font-size: 11px;
 }
 .mainProjects img{
   padding: 30px;
-  height: 250px;
+  height: 300px;
 }
 
 .mainProjects a {
   color: black;
-  font-size: 20px;
+  font-size: 18px;
 
 }
 .mainProjects a:clicked {
