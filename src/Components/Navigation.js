@@ -28,7 +28,7 @@ function Navigation() {
 
     const handleClick = () => {
       set(state => !state) 
-      history.push('/')
+      history.push('/Coral-Fussman-profile/')
     }
 
     return (

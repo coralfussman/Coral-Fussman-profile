@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://coralfussman.github.io/Coral-Fussman-profile/",
   "dependencies": {
+    "@davistran86/carousel": "^1.0.3",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -24,7 +25,6 @@
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": "react-app"

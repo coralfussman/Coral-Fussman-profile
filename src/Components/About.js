@@ -18,7 +18,7 @@ const About = () => {
                 <h3> ∅ History ∅ </h3>
                      <p> Studied <b>Design</b> in New York for seven years, thoroughly immersed in the fashion & Art scene.<br/>
                     Lived abroad in Milan for a year working on my thesis. My mission simple, the sciences and the arts should<br/>
-                     exist in elegant, effortless harmony.<b>Fashion</b> and <b>technology</b> can live in <b>symbiosis</b>, for the purpose  <br/>
+                     exist in elegant, effortless harmony. <b>Fashion</b> and <b>technology</b> can live in <b>symbiosis</b>, for the purpose  <br/>
                       of <b>utility</b> and <b>aesthetics</b>.  I came back to the state with a hunger to innovate. Starting with my first<br/>
                       job out of school creating space suits. Since then,
                       I have developed a an insatiable desire <br/>
