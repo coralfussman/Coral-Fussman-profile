@@ -92,3 +92,13 @@ b {
   color: rgb(119, 219, 209);
   font-size: 17px;
 }
+
+.homePg{
+  height: 60vh;
+  width: 100vw;
+}
+.ripple{
+  height: 60px;
+  font-size: 60px;
+ 
+}
