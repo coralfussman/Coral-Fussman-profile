@@ -50,7 +50,14 @@ const projects = [
         url: "https://i.imgur.com/Xv3Uf01.png",
         youTube: "https://www.youtube.com/watch?v=H8CsvyJFkUg",
         github: "https://github.com/coralfussman",
-        caption: "A travel planning app. Allows the user to create an account and add up and coming trips by searching a city from a list. Then selecting that city and adding information relevant to their trip. Follows RESTful convention. Rails backend, React Frontend. Uses the bycrypt gem and JWT Auth to generate a user token. Vanilla Css."
+        caption: "Elite Squad is a CLI app written in Ruby. It matches clubhouses with specific amenities with members. Depending on the clubs amenities it is ranked bronze, silver or gold. Every member starts out with a bronze ranking allowing them to only visit bronze tier clubhouses, the more clubhouses you attend, the higher ranking you unlock."
+      },
+      {
+        name: "Portfolio",
+        url: "https://i.imgur.com/l8HGLar.png",
+        youTube: "",
+        github: "https://github.com/coralfussman/Coral-Fussman-profile",
+        caption: "Personal Portfolio themed around the parallel of my name in the design. A React frontend utilizing Hooks. Leveraged the spring library for animation. Email Service on frontend. Hosting on github pages. Demo Video Coming Soon!"
       }
 
   ];
