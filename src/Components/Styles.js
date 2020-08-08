@@ -63,7 +63,7 @@ export const InputMessage = styled.textarea`
 	border: none;
 	border-radius: 3px;
     width: 80%;
-    height: 20%;
+    height: 15%;
     margin-bottom: 0.2em;
     font-family: Jost, sans-serif;
     font-size: 16px;
