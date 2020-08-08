@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21ce6bf29b6b7b991f16dc96199f703b",
+    "revision": "72813a18fef515e805081cb277e9ab10",
     "url": "/Coral-Fussman-profile/index.html"
   },
   {
-    "revision": "90371e212cb28e650dbb",
+    "revision": "b8a5357c6172698658e3",
     "url": "/Coral-Fussman-profile/static/css/main.505c7b3c.chunk.css"
   },
   {
-    "revision": "0ec75bac462dc1cb1f04",
-    "url": "/Coral-Fussman-profile/static/js/2.b3e1759e.chunk.js"
+    "revision": "79e3e456495ab4a3e055",
+    "url": "/Coral-Fussman-profile/static/js/2.e1825604.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/Coral-Fussman-profile/static/js/2.b3e1759e.chunk.js.LICENSE.txt"
+    "url": "/Coral-Fussman-profile/static/js/2.e1825604.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90371e212cb28e650dbb",
-    "url": "/Coral-Fussman-profile/static/js/main.70407807.chunk.js"
+    "revision": "b8a5357c6172698658e3",
+    "url": "/Coral-Fussman-profile/static/js/main.0303ec5b.chunk.js"
   },
   {
     "revision": "104ea37ba1869d1799a5",
