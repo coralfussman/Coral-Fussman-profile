@@ -40,11 +40,12 @@ function Contact() {
             <div>
                 <form onSubmit={sendEmail}>
                 <ContactMe> Like what you see? <br/> Contact Me </ContactMe>
+
                     <Label htmlFor="label">Name:</Label>
-                    <Input type="text" id="label" />
+                    <Input type="text" id="label" name="user_name" />
                     
                     <Label htmlFor="label">Email:</Label>
-                    <Input type="text" id="label" />
+                    <Input type="email" id="label" name="user_email" />
 
                     <Label htmlFor="label">Message:</Label>
                     <InputMessage type="text" id="label" name="message" />
