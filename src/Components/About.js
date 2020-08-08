@@ -7,8 +7,8 @@ const About = () => {
    
     return(
    
-            <div className="about">
-                <div className="aboutContainer">
+            <div className="main">
+               
                 <hr/>
                 <h2>The Gist</h2>
                <img className="profilePic" src="https://i.imgur.com/kzA7g2u.png" title="source: imgur.com" height="170px" />
@@ -34,10 +34,7 @@ const About = () => {
                     Therefore my remaining time is spent catching up on my chrome <b>bookmarks</b>, my reading list, and<br/> 
                     learning to use my dad's black magic camera. I use the content to play around in Adobe Photoshop and Premiere. 
                     </p>
-                </div>
-                {/* <div className="beans"> 
-                <img src={beans}  alt="beans" />
-                </div> */}
+                
             </div>
     )       
 } 

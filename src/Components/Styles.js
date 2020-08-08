@@ -53,7 +53,7 @@ export const Input = styled.input`
     margin-bottom: 0.2em;
     font-family: Jost, sans-serif;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
 `
 export const InputMessage = styled.textarea`
     margin-top: 10px;
@@ -66,7 +66,7 @@ export const InputMessage = styled.textarea`
     height: 20%;
     margin-bottom: 0.2em;
     font-family: Jost, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
   
     flex-wrap: wrap;
