@@ -54,16 +54,16 @@ function Contact() {
                     <EmailAdd> ↪  or email me at coralfussman@gmail.com, looking forward to the possibilities  ↩ </EmailAdd>
                 </form>
                 <Row>
-                    <a href="https://www.linkedin.com/in/coral-fussman-21721538/" >
+                    <a href="https://www.linkedin.com/in/coral-fussman-21721538/" target="_blank" >
                         <img src={Linkedin} className="socialBttn" alt="linkedin" />
                     </a>
 
-                    <a href="https://github.com/coralfussman" >
-                        <img src={Github} className="socialBttn" alt="Github" />
+                    <a href="https://github.com/coralfussman" target="_blank">
+                        <img src={Github} className="socialBttn" alt="Github"/>
                     </a>
 
-                    <a href="https://medium.com/@coralfussman" >
-                        <img src={Medium} className="socialBttn" alt="medium" />
+                    <a href="https://medium.com/@coralfussman"  target="_blank">
+                        <img src={Medium} className="socialBttn" alt="medium"  />
                     </a>
                  
                     
