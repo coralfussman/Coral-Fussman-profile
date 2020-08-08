@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e963ac31de7f54f1abe884fd6b7384a1",
+    "revision": "52035311197d87fe771dbdcda716d2d6",
     "url": "/Coral-Fussman-profile/index.html"
   },
   {
