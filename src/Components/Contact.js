@@ -53,11 +53,20 @@ function Contact() {
                     <EmailAdd> ↪  or email me at coralfussman@gmail.com, looking forward to the possibilities  ↩ </EmailAdd>
                 </form>
                 <Row>
+                    <a href="https://www.linkedin.com/in/coral-fussman-21721538/" >
+                        <img src={Linkedin} className="socialBttn" alt="linkedin" />
+                    </a>
 
-                    <div className="socialBttn"><img src={Linkedin} className="App-logo" alt="logo" /> </div>
-                    <div className="socialBttn"><img src={Github} className="App-logo" alt="logo" /> </div>
-                    <div className="socialBttn"><img src={Medium} className="App-logo" alt="logo" /> </div>
+                    <a href="https://github.com/coralfussman" >
+                        <img src={Github} className="socialBttn" alt="Github" />
+                    </a>
 
+                    <a href="https://medium.com/@coralfussman" >
+                        <img src={Medium} className="socialBttn" alt="medium" />
+                    </a>
+                 
+                    
+                   
                 </Row>
 
 
@@ -68,11 +77,19 @@ function Contact() {
             <Submitted/>
             <Row>
 
-                    <div className="socialBttn"><img src={Linkedin} className="App-logo" alt="logo" /> </div>
-                    <div className="socialBttn"><img src={Github} className="App-logo" alt="logo" /> </div>
-                    <div className="socialBttn"><img src={Medium} className="App-logo" alt="logo" /> </div>
+                <a href="https://www.linkedin.com/in/coral-fussman-21721538/" >
+                    <img src={Linkedin} className="socialBttn" alt="linkedin" />
+                </a>
 
-                </Row>
+                <a href="https://github.com/coralfussman" >
+                    <img src={Github} className="socialBttn" alt="Github" />
+                </a>
+
+                <a href="https://medium.com/@coralfussman" >
+                    <img src={Medium} className="socialBttn" alt="medium" />
+                </a>
+                 
+            </Row>
          
          </div>
          )
