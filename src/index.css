@@ -42,7 +42,7 @@ body {
 
 .mainProjects {
   width: 70vw;
-  height: 70vh;
+  height: 75vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -54,6 +54,9 @@ body {
 }
 .mainProjects p{
   padding: 30px;
+}
+.mainProjects img{
+  height: 300px;
 }
 
 .mainProjects a {

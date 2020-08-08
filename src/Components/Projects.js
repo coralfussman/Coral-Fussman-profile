@@ -65,7 +65,7 @@ const projects = [
                 <br/>
                 <h2>{project.name}</h2>
                 <br/>
-                <img key={index} alt={project.caption} src={project.url} height="300px" />
+                <img key={index} alt={project.caption} src={project.url}  />
 
                 <br/>
                 <p>{project.caption} </p>
