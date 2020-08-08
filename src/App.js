@@ -42,9 +42,9 @@ function App() {
       <div className="main">
         <Switch>
                 <Route path="/Coral-Fussman-profile/" exact component={Home}/>
-                <Route path="/projects" render={renderProjects}/>
-                <Route path="/details" render={renderAbout} />
-                <Route path="/contact" render={renderContact} />
+                <Route path="/Coral-Fussman-profile/projects" render={renderProjects}/>
+                <Route path="/Coral-Fussman-profile/details" render={renderAbout} />
+                <Route path="/Coral-Fussman-profile/contact" render={renderContact} />
               </Switch>
 
       </div>

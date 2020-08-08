@@ -8,7 +8,7 @@ export default function Home() {
 
 
     const handleClick = () => {
-        history.push('/projects')
+        history.push('/Coral-Fussman-profile/projects')
     }
     return (
         <div className="main">

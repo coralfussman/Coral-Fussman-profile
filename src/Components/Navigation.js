@@ -23,7 +23,7 @@ function Navigation() {
         console.log(e.target.innerText.toLowerCase(), "on click")
 
        const page = e.target.innerText.toLowerCase()
-       history.push(`/${page}`)
+       history.push(`/Coral-Fussman-profile/${page}`)
     }
 
     const handleClick = () => {
