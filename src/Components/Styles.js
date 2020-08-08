@@ -94,4 +94,5 @@ export const EmailAdd = styled.p`
 
     margin-left: 20px;
     margin-right: 20px;
+    font-size: 10px;
 `
