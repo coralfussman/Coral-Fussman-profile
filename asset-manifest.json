@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Coral-Fussman-profile/static/css/main.c463351f.chunk.css",
+    "main.css": "/Coral-Fussman-profile/static/css/main.65a78daf.chunk.css",
     "main.js": "/Coral-Fussman-profile/static/js/main.f84e46d9.chunk.js",
     "main.js.map": "/Coral-Fussman-profile/static/js/main.f84e46d9.chunk.js.map",
     "runtime-main.js": "/Coral-Fussman-profile/static/js/runtime-main.594ee0d5.js",
@@ -8,9 +8,9 @@
     "static/js/2.e1825604.chunk.js": "/Coral-Fussman-profile/static/js/2.e1825604.chunk.js",
     "static/js/2.e1825604.chunk.js.map": "/Coral-Fussman-profile/static/js/2.e1825604.chunk.js.map",
     "index.html": "/Coral-Fussman-profile/index.html",
-    "precache-manifest.14325e921cbdb1a22bd685121bffeca0.js": "/Coral-Fussman-profile/precache-manifest.14325e921cbdb1a22bd685121bffeca0.js",
+    "precache-manifest.7ca62672d0fec1a5239dc25d2ef9259a.js": "/Coral-Fussman-profile/precache-manifest.7ca62672d0fec1a5239dc25d2ef9259a.js",
     "service-worker.js": "/Coral-Fussman-profile/service-worker.js",
-    "static/css/main.c463351f.chunk.css.map": "/Coral-Fussman-profile/static/css/main.c463351f.chunk.css.map",
+    "static/css/main.65a78daf.chunk.css.map": "/Coral-Fussman-profile/static/css/main.65a78daf.chunk.css.map",
     "static/js/2.e1825604.chunk.js.LICENSE.txt": "/Coral-Fussman-profile/static/js/2.e1825604.chunk.js.LICENSE.txt",
     "static/media/Github.svg": "/Coral-Fussman-profile/static/media/Github.129e2f1f.svg",
     "static/media/Linkedin.svg": "/Coral-Fussman-profile/static/media/Linkedin.3357b800.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.594ee0d5.js",
     "static/js/2.e1825604.chunk.js",
-    "static/css/main.c463351f.chunk.css",
+    "static/css/main.65a78daf.chunk.css",
     "static/js/main.f84e46d9.chunk.js"
   ]
 }
