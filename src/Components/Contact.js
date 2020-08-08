@@ -38,7 +38,7 @@ function Contact() {
       if(submitted === (false)){
         return (
             <div>
-                <form action="http://formspree.io/coralfussman@gmail.com" method="POST">
+                <form action="https://formspree.io/xaypkyyq" method="POST">
                 <ContactMe> Like what you see? <br/> Contact Me </ContactMe>
 
                     <Label htmlFor="label">Name:</Label>
