@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Coral-Fussman-profile/precache-manifest.6d7d1587203407a035b64a671b08efdd.js"
+  "/Coral-Fussman-profile/precache-manifest.522fe64ed1e06b5061c76b471feb94da.js"
 );
 
 self.addEventListener('message', (event) => {
