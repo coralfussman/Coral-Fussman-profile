@@ -67,6 +67,7 @@ export const InputMessage = styled.textarea`
     margin-bottom: 0.2em;
     font-family: Jost, sans-serif;
     font-size: 16px;
+    overflow: auto;
     font-weight: 400;
   
     flex-wrap: wrap;
