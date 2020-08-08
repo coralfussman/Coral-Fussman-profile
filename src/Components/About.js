@@ -21,8 +21,8 @@ const About = () => {
                      <br/>at Politecnico di Milano. My mission was simple, the sciences and the arts should exist in elegant, effortless harmony. <b>Fashion</b> 
                       <br/>and <b>technology</b> can live in <b>symbiosis</b>, for the purpose of <b>utility</b> and <b>aesthetics</b>. I came back to the
                       <br/> states with a hunger to innovate. Starting with my first job out of school creating space suits at Final Frontier Design. 
-                      Since then, I have developed an insatiable desire to <b>improve performance</b> across a range of fields not limited
-                      <br/> to fashion. All stemming from the same underlying need to continue moving <b>forward</b>.
+                      <br/> Since then, I have developed an insatiable desire to <b>improve performance</b> across a range of fields not 
+                      <br/>limited to fashion. All stemming from the same underlying need to continue moving <b>forward</b>.
                   </p>
                 <h3> ∅ Currently ∅ </h3>
                     <p> Having been cursed and blessed with the inability to 'chill',  <br/>
