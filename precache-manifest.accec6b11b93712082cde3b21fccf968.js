@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b907d2982d0c07b546b394aa44eed421",
+    "revision": "a16a5cee4e7371d41bab74ecd4a97487",
     "url": "/Coral-Fussman-profile/index.html"
   },
   {
-    "revision": "6915d1cc6fbe504349e7",
+    "revision": "e69749f142ed031aefbb",
     "url": "/Coral-Fussman-profile/static/css/main.01b09a68.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Coral-Fussman-profile/static/js/2.1b39cea1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6915d1cc6fbe504349e7",
-    "url": "/Coral-Fussman-profile/static/js/main.1342c824.chunk.js"
+    "revision": "e69749f142ed031aefbb",
+    "url": "/Coral-Fussman-profile/static/js/main.0df1e42b.chunk.js"
   },
   {
     "revision": "104ea37ba1869d1799a5",
