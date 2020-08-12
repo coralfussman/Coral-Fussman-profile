@@ -72,6 +72,7 @@ body {
   text-align: center;
   color: black;
   padding: 40px;
+  box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.404);
   
 }
 .mainProjects p{
